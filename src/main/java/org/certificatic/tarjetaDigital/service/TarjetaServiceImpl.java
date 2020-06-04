@@ -20,7 +20,7 @@ public class TarjetaServiceImpl implements TarjetaService {
 
 	@Override
 	public List<Tarjeta> obtenerTodas() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub.....
 		return tarjetaRepository.obtenerTodas();
 	}
 
